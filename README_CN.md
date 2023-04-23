@@ -17,4 +17,4 @@ notebook                  6.5.2           py310hca03da5_0
 
 ### 深度学习
 
-1. [使用神经网络对手写数字做分类](/case/1.handwritten_digit_classification.ipynb)
+1. [使用神经网络对手写数字做分类](/case/1.handwritten_digit_classification_cn.ipynb)
