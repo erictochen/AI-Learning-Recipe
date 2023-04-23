@@ -12,7 +12,9 @@ conda 23.3.1
 
 ~ conda list pytorch && python
 # Name                    Version                   Build  Channel
+python                    3.10.9               hc0d8a6c_1
+conda                     23.3.1          py310hca03da5_0
 pytorch                   2.0.0                  py3.10_0    pytorch
-Python 3.10.9 (main, Mar  1 2023, 12:20:14) [Clang 14.0.6 ] on darwin
+notebook                  6.5.2           py310hca03da5_0
 ```
 
