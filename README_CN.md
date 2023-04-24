@@ -2,7 +2,7 @@
 
 AI理论及应用，力求用最简洁清楚的方式表述AI。
 
-简体中文 | [English](README_CN.md) 
+简体中文 | [English](README.md) 
 
 ### 基础环境配置
 
@@ -17,4 +17,4 @@ notebook                  6.5.2           py310hca03da5_0
 
 ### 深度学习
 
-1. [使用神经网络对手写数字做分类](/case/1.handwritten_digit_classification_cn.ipynb)
+1. [使用神经网络对手写数字做分类](/case/cn/1.handwritten_digit_classification.ipynb)

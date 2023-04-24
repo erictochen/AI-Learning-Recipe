@@ -17,4 +17,7 @@ conda                     23.3.1          py310hca03da5_0
 pytorch                   2.0.0                  py3.10_0    pytorch
 notebook                  6.5.2           py310hca03da5_0
 ```
+### 深度学习
+
+1. [Classify handwritten digits using neural networks](/case/en/1.handwritten_digit_classification.ipynb)
 
