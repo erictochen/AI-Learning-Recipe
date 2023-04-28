@@ -17,4 +17,5 @@ notebook                  6.5.2           py310hca03da5_0
 
 1. [使用神经网络对手写数字做分类](/case/1.handwritten_digit_classification.ipynb)
 2. [使用神经网络做气温预测](/case/2.using_neural_networks_for_temperature_prediction.ipynb)
+3. [使用卷积神经网络对手写数字做分类](/case/3.classifying_handwritten_digits_using_convolutional%20_neural_networks.ipynb)
 
